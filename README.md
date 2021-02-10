@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jordan. I work at UBreakIFix. The main purpose of this account is to make things to use at work, for example, bookmarklets that make life a little easier.
+
 <!--
 **jubif/jubif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
